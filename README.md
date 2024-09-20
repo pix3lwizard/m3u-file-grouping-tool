@@ -32,7 +32,7 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/m3u-file-grouping-tool.git
+git clone https://github.com/pix3lwizard/m3u-file-grouping-tool.git
 cd m3u-file-grouping-tool
 ```
 
